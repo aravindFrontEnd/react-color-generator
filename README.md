@@ -1,3 +1,4 @@
-#### Values JS
+React Color genertor APP
 
-[values.js](https://github.com/noeldelgado/values.js)
+- Use valu.js for generating shades & tints
+
